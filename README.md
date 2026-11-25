@@ -8,7 +8,7 @@ Data Analytics project, ZHAW School of Management and Law, autumn semester 2026
 ## Research question
 
 To what extent do party strengths explain municipal Yes-shares in federal votes
-on environment and transport since 2020, and do the deviations from this
+on environment, climate and energy since 2020, and do the deviations from this
 prediction differ systematically between language regions and between urban and
 rural municipalities?
 
